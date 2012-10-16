@@ -1,7 +1,35 @@
-﻿[general]name=ChuckNorris
+﻿# This file contains metadata for your plugin. Beginning
+# with version 1.8 this is the preferred way to supply information about a
+# plugin. The current method of embedding metadata in __init__.py will
+# be supported until version 2.0
+# This file should be included when you package your plugin.
+
+# Mandatory metadata:
+
+name=ChuckNorris
 qgisMinimumVersion=1.5
 description= Plugin for training, and for fun (french)
 version=0.1
-email=bertrand.bouteilles@developpement-durable.gouv.fr
-experimental=True
+
+# end of mandatory metadata
+
+# Optional items:
+
+# tags are comma separated with spaces allowed
+tags=Chuck Norris, test, fun
+
+homepage=http://www.sig974.free.fr
+repository=https://github.com/bbouteilles/ChuckNorris_Plugin
 icon=icon.png
+
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version
+deprecated=False
+
+# Author contact information
+author=Bertrand Bouteilles
+email=bertrand.bouteilles@developpement-durable.gouv.fr
+
+
