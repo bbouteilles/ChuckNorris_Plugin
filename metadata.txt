@@ -1,0 +1,7 @@
+﻿[general]name=ChuckNorris
+qgisMinimumVersion=1.5
+description= Plugin for training, and for fun (french)
+version=0.1
+email=bertrand.bouteilles@developpement-durable.gouv.fr
+experimental=True
+icon=icon.png

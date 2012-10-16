@@ -1,0 +1,6 @@
+<RCC> 
+  <qresource prefix="/plugins/ChuckNorris" > 
+    <file>icon.png</file> 
+    <file>chuck.png</file>
+  </qresource>
+</RCC> 
